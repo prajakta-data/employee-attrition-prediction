@@ -55,3 +55,8 @@ employee-attrition-prediction/
 3. Run all cells
 
 ## Project Structure
+employee-attrition-prediction/
+│
+├── notebooks/
+├── reports/
+├── README.md
